@@ -1,2 +1,0 @@
-# FacultyContractPowerAutomateSolution
-Faculty Contract Power Automate Solution

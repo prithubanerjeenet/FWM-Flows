@@ -1,2 +1,2 @@
-# FacultyContractPowerAutomateSolution
-Faculty Contract Power Automate Solution
+# FWM-Flows
+Faculty Contract Power Automate Solution - FWM-Flows
